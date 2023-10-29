@@ -1,81 +1,53 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Semantic Search
+description: a Smart Alternative for Ctrl + F
+img: assets/img/smartsearch.png
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: fun
+related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/DYKoab0Cet4"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+    </div>
+</div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<div class="caption">
+    Video Walkthrough
+</div>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Inspiration
+One of our teammates pointed out that the search extension (ctrl +f ) on the web browser nowadays has limited usage since it only supports exact word searches. when browsing any academic report and essays online, authors will paraphrase and one word might have appeared in their synonym form. Therefore, we thought it would be helpful to create an extension on the browser to help us with a smarter search. For example, when we are trying to search the word "people", we also want to know where words like "humankind", "individuals" are located. This function will make our life easier when we are reading any academic resources. Moreover, with the advanced machine learning technology, we wanted to break the limit of the text-only search. We also want to search for specific images and time slots of the video that contains the information we want to search for. Thus, we created a chrome extension called Smart Search that can search with plain text, images, and video.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SSscreenshot.jpg" title="User Interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    a simple and clear User Interface
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+## Things we learned
+Before this hackathon, all of us did not have any knowledge of chrome extension development and we were only familiar with web development in general. During the development and installation of this chrome extension, we were able to learn many technical skills including google cloud deployment, API utilization, image recognition, GitHub, and communication between different languages including Python and JavaScript. Since this project requires both front end and back end, we were also required to have the ability to communicate between team members and transfer data between each other. teamwork definitely played an important role during the process of development.
 
+## How we built our project
+Backend: we used google cloud to host our website, PyTorch for machine learning.
+Frontend: we used [semantic UI](https://semantic-ui.com/) as a framework to create the user interface. [Jquery](https://https://jquery.com//)  was used as an external library as we wanted to manipulate DOM as we use the chrome extension. We also utilized [RapidAPI](https://rapidapi.com/Graydyn/api/synonyms/to)  get similar words and therefore to search.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Challenge
+One of the challenges during the development is time management. Since our application is required to use a trained machine learning model for recognizing images and videos, we were not able to train a suitable and efficient model specifically for this project. because of this, the search was not 100% accurate when searching with images and videos. Moreover, we were not familiar with APIs related to the chrome extension since this is our first time developing the chrome extension. We had to spend some time studying the infrastructure of the chrome extension.
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+## Try it Out
+[GitHub Repo](https://github.com/boshenzh/SemanticSearch)

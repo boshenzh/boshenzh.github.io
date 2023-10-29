@@ -18,9 +18,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there, I'm Boshen Zhang, currently immersed in the world of Intelligent Robotics as a spirited master's student at the University of Southern California. My passion lies in the fascinating realms of Robotics and Machine Learning, where I'm constantly exploring ways to infuse artificial intelligence into the latest robotic innovations, all geared toward making people's daily lives a tad more seamless. Originally from the vibrant land of China, I kick-started my academic journey at Virginia Tech, delving into the realms of Computer Science & Applied Mathematics.
+Hey there, I'm Boshen Zhang, currently pursuing my master's degree at the University of Southern California, my focus lies primarily in the convergence of Robotics and Machine Learning, where I'm constantly exploring ways to infuse artificial intelligence into the latest robotic innovations, all geared toward making people's daily lives a tad more seamless. My academic journey commenced at Virginia Tech, where I pursued my bachelor in Computer Science & Applied Mathematics. 
 
-In the midst of academia, I find solace in the sheer thrill of conquering rocky terrains through exhilarating rock climbing adventures. When I'm not scaling new heights, you'll often catch me absorbed in the magic of captivating movies or swaying to the rhythm of diverse musical beats.
+When I'm not busy with my studies, I love the excitement of rock climbing. If I'm not doing that, I'm probably getting lost in a good movie or jamming to some great tunes.
+
+Feel free to drop me a line if you've got a cool software, Robotics, or Machine Learning project brewing. I'm always up for diving into new and exciting challenges alongside like-minded enthusiasts.
+
+Also, if you're in the mood for some indoor bouldering action, count me in!
+
+
+
+
 
 
 

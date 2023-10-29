@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: False
+description: Updated October 2023
+nav: True
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
