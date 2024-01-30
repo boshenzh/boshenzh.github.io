@@ -3,7 +3,7 @@ layout: page
 title: Network Interdiction Game
 description: Website to study how to set up optimal policing resources to prevent DUI events.
 img: assets/img/Drunk.png
-importance: 2
+importance: 3
 category: work
 related_publications: 
 ---
