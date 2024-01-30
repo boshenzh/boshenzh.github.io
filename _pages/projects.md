@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Updated October 2023
+description: Updated Jan 2024
 nav: True
 nav_order: 2
 display_categories: [work, fun]

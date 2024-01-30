@@ -3,7 +3,7 @@ layout: page
 title: Semantic Search
 description: a Smart Alternative for Ctrl + F
 img: assets/img/smartsearch.png
-importance: 1
+importance: 2
 category: fun
 related_publications: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Resume
+title: CV
 nav: True
 nav_order: 4
 cv_pdf: CV_BoshenZhang.pdf
