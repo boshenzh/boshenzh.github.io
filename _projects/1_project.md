@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Semantic Search
-description: a Smart Alternative for Ctrl + F
+description: Chrome Extension (Winner of VTHacks IX Hackathon)
 img: assets/img/smartsearch.png
 importance: 2
 category: fun
