@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hey there, I'm Boshen Zhang, currently pursuing my master's degree at the [University of Southern California](https://www.usc.edu/). My area of study is Computer Science with an emphasis on Intelligent Robotics. I completed my undergraduate study at [Virginia Tech](https://www.vt.edu/), where I was guided by Dr. [Sara Hooshangi](https://nvc.cs.vt.edu/faculty/Sara-Hooshangi.html) and Dr. [Weijun Xie](https://sites.google.com/site/weijunxieor/home) and graduated Magna Cum Laude.
 
-I have a broad interests in Robotics and My current research interests lies in Robot Learning and Human-Robot Interaction. I am currently learning techiniques including Reinforcement Learning and Planning to aid embodied agent make efficient and robust decisions.
+I have a broad interests in Robotics and My current research interests lies in Robot Learning and Human-Robot Interaction. I am currently learning techiniques including Reinforcement Learning and Planning to aid embodied agent make efficient and robust decisions. 
 
 When I'm not busy with my studies, I spend my time rock climbing, watching movies, and listening to some music
 
