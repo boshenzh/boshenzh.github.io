@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work "Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios" is accepeted to LM4Plan Workshop at AAAI 2025! My first Paper!
+Our paper "Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios" is accepeted to [LM4Plan@AAAI 2025](https://llmforplanning.github.io/)! My first workshop Paper!
