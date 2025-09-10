@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>boshenzh at usc dot edu</p>
     <p>Los Angeles, CA</p>
 
 news: true  # includes a list of news items
@@ -18,11 +17,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there, I'm Boshen Zhang, currently pursuing my master's degree at the [University of Southern California](https://www.usc.edu/). I am fortunate to work with Prof.[Stefanos Nikolaidis](https://www.stefanosnikolaidis.net/) . Previously, I completed my undergraduate study at [Virginia Tech](https://www.vt.edu/), where I was guided by Dr. [Sara Hooshangi](https://nvc.cs.vt.edu/faculty/Sara-Hooshangi.html) and Dr. [Weijun Xie](https://sites.google.com/site/weijunxieor/home) and graduated Magna Cum Laude.
 
-My current research interests lies in Multi-agent systems, Robot Learning, and Human-Robot Interaction. My main research goal is to build embodied agent that makes adaptive, rapid, and robust decisions and work well alongside humans. I hope we can build and play with systems like [MOSS](https://the-wandering-earth.fandom.com/wiki/550W_(MOSS))(Wandering Earth) and [TARS](https://www.youtube.com/watch?v=wVEfFHzUby0)(Interstellar) someday!
+Hi, I'm Boshen Zhang, I am interested in studying in the intersection of Robotics and AI, especially in scenarios that involves human. 
 
-When I'm not busy with my studies, I spend my time rock climbing, watching movies/reality show, and listening to music.
+I received my master's degree at [University of Southern California](https://www.usc.edu/) and bachelor's degree at [Virginia Tech](https://www.vt.edu/)
 
-I love collabration. Feel free to send me an email for any potential collabration or just simply want to chat about life and career.
+Previously I was a research assistant with with Prof.[Stefanos Nikolaidis](https://www.stefanosnikolaidis.net/) in the [ICAROS](https://icaros.usc.edu/people/) Lab where I focused on synthetic data generation with LLM-powered agents. I have also conducted research with Prof. [Gaurav Sukhatme](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav) and Prof.[Feifei Qian](https://sites.google.com/usc.edu/roboland) on adaptive communication and collabration. 
 
+My research interests lies in Robot Learning, Human-Robot Interaction and Multi-agent systems. My main research goal is to build embodied agent that makes adaptive, rapid, and robust decisions and work well alongside humans.  
+
+I am also interested in robot expressiveness in which robot exhibits anthropomorphism without adopting a human shape. I really loved the idea of making robot of a helpful friend. ([Keepon](https://www.youtube.com/watch?v=nPdP1jBfxzo) by Hideki Kozima,[ELEGNT](https://www.youtube.com/watch?v=iJtTfIj1Dd8) from Apple). 
+
+For leisure, I spend my time rock climbing, watching movies, and listening to music.
+
+Feel free to send me an email! 
